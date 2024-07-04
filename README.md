@@ -28,6 +28,6 @@ Desarrollar un sistema robusto para procesar datos experimentales y generar info
 - **Procesamiento Paralelo:** Utilizar hilos para procesar cada directorio `<mes>_<año>` de manera simultánea y optimizada.
 
 - ### Prueba de ejecucion:
-[Pruebas de ejecucion]()
+[Pruebas de ejecucion](https://lucid.app/lucidchart/90deb256-494d-485e-847e-ac7dee42fde8/edit?viewport_loc=-1%2C58%2C1921%2C862%2CHWEp-vi-RSFO&invitationId=inv_b6722b95-6e48-4520-9021-e2159e1c8bbe)
 
 
