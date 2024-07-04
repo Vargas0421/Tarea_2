@@ -27,3 +27,7 @@ Desarrollar un sistema robusto para procesar datos experimentales y generar info
 ### Multihilo:
 - **Procesamiento Paralelo:** Utilizar hilos para procesar cada directorio `<mes>_<año>` de manera simultánea y optimizada.
 
+- ### Prueba de ejecucion:
+[Pruebas de ejecucion]()
+
+
